@@ -1,0 +1,29 @@
+.calculadora {
+    background-color:gray;
+    padding: 20px;
+    width: 300px;
+    height: 500px;
+    border-radius: 30px;
+    margin: 0px;
+    display: block;
+}
+.calculadora td button {
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+width: 60px;
+height: 60px;
+display: block;
+background-color: white;
+}
+#result{
+    width: 250px;
+    display: block;
+    height: 100px;
+    overflow-y: scroll;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    
+}
